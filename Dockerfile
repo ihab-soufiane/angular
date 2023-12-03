@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 4200
 
 # Commande pour démarrer l'application Angular
-CMD ["ng", "serve"]
+CMD ["npm", "start"]
